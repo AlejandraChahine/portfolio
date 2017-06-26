@@ -1,2 +1,2 @@
 # portfolio
-Website 
+Personal website to showcase myself 
